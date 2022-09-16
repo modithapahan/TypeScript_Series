@@ -16,3 +16,4 @@ console.log(name1);
 /* Null */
 const age:Number = null;
 console.log(age);
+
