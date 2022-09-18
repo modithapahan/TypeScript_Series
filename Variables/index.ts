@@ -18,5 +18,5 @@ let name22 = "modi";
 let name23: number = <number><any>name22;
 console.log(typeof(name23));
 
-
 console.log("--------------------------------------");
+
